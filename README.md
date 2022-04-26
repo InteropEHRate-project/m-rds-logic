@@ -1,1 +1,1 @@
-# InteropEHRate Research Data Sharing (RDS) Protocol's Library
+# InteropEHRate Mobile Research Data Sharing (RDS) Protocol's Library
