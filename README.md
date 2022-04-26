@@ -1,1 +1,1 @@
-# rds-logic
+# InteropEHRate Research Data Sharing (RDS) Protocols Library
