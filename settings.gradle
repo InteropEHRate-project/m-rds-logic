@@ -1,0 +1,3 @@
+include ':rds-simple'
+include ':app'
+rootProject.name = "rds-logic-application"
